@@ -8,7 +8,7 @@
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
 
 ]]--
---------[[[[ Update log
+--------[[[[ Update log Flexia v.1.0.1
             [+] fixed lag
             [+] fixed auto bartilo quest not equip weapon
             [+] fixed auto elite not going to boss ]]]]----------
